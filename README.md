@@ -1,4 +1,4 @@
 # creative-demo
 This is my first Git Repository.
 <br>
-Author - Sneha Dhole
+Author - Sneha Dhole(Aradhya)
